@@ -23,7 +23,7 @@ int main()
     std::cout<<coeff2<<"\n";
     std::cout<<"What is the exponent of the second term?\t";
     std::cin>>Exp2;
-    std::cout<<Exp2<<"n";
+    std::cout<<Exp2<<"\n";
     std::cout<<"What is the constant?\t";
     std::cin>>constant;
     std::cout<<constant<<"\n";
@@ -35,7 +35,7 @@ int main()
     std::cin>>x;
     std::cout<<x<<"\n";
     //Solve the equation with the given x
-    y = coeff1*pow(x,Exp1) + coeff2*pow(x,Exp2);
+    y = coeff1*pow(x,Exp1) + coeff2*pow(x,Exp2) + constant;
     std::cout<<"y = "<<coeff1<<"*"<<x<<"^"<<Exp1<<" + "<<coeff2<<"*"<<x<<"^"<<Exp2<<" + " <<constant<<" = "<<y;
     return 0;
 }
