@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/cyngn_intern/Desktop/cpp/Udacity_CPP_For_Programmers/Project_8_27/main.cpp
+iostream
+-
+stdio.h
+-
+main.h
+/Users/cyngn_intern/Desktop/cpp/Udacity_CPP_For_Programmers/Project_8_27/main.h
+
+/Users/cyngn_intern/Desktop/cpp/Udacity_CPP_For_Programmers/Project_8_27/main.h
+

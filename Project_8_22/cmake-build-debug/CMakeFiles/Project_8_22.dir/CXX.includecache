@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/cyngn_intern/Desktop/cpp/Udacity_CPP_For_Programmers/Project_8_22/Dog.cpp
+string
+-
+iostream
+-
+
+/Users/cyngn_intern/Desktop/cpp/Udacity_CPP_For_Programmers/Project_8_22/main.cpp
+main.h
+/Users/cyngn_intern/Desktop/cpp/Udacity_CPP_For_Programmers/Project_8_22/main.h
+
+/Users/cyngn_intern/Desktop/cpp/Udacity_CPP_For_Programmers/Project_8_22/main.h
+Dog.cpp
+/Users/cyngn_intern/Desktop/cpp/Udacity_CPP_For_Programmers/Project_8_22/Dog.cpp
+

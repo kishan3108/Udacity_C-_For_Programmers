@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/cyngn_intern/Desktop/cpp/Udacity_CPP_For_Programmers/Project_8_24/main.cpp
+mainFunctions.cpp
+/Users/cyngn_intern/Desktop/cpp/Udacity_CPP_For_Programmers/Project_8_24/mainFunctions.cpp
+
+/Users/cyngn_intern/Desktop/cpp/Udacity_CPP_For_Programmers/Project_8_24/mainClasses.cpp
+iostream
+-
+string
+-
+
+/Users/cyngn_intern/Desktop/cpp/Udacity_CPP_For_Programmers/Project_8_24/mainFunctions.cpp
+mainClasses.cpp
+/Users/cyngn_intern/Desktop/cpp/Udacity_CPP_For_Programmers/Project_8_24/mainClasses.cpp
+
